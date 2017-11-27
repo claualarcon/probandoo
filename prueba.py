@@ -15,3 +15,4 @@ class prueba(object):
         Constructor
         '''
         print("Hello word")
+        print("Esto si funciona!!!")
