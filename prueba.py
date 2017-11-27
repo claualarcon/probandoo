@@ -14,4 +14,4 @@ class prueba(object):
         '''
         Constructor
         '''
-        
+        print("Hello word")
